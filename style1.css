@@ -438,14 +438,14 @@ h1{
 
 @media (max-width: 1400px) {
     #color {
-        width: 400px;
+        width: 370px;
         font-size: 14px; 
-        
+        margin-right:10%;
     }
 
     #images {
         height: 200px;
-        width: 400px;
+        width: 370px;
         margin: 10px auto; 
   
     }
