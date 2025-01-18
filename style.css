@@ -18,6 +18,7 @@ width: 920px;}
     font-size: 24pt;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+#title + a{margin-left:100px}
 #text_navigation{
     text-align: center;
     color:white;
