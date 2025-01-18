@@ -436,4 +436,28 @@ h1{
     font-size: 24px;
 }
 
+@media (max-width: 1400px) {
+    #color {
+        width: 400px;
+        font-size: 14px; 
+        
+    }
+
+    #images {
+        height: 200px;
+        width: 400px;
+        margin: 10px auto; 
+  
+    }
+
+    #amir {
+        width: 90%;
+        font-size: 18px;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+   
+}
+
 
